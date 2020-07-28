@@ -1,0 +1,38 @@
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+
+h1{text-align :center;
+ padding: 40px 250px;
+ font-family: Avenir, courier, Helvetica;
+ color: black;
+ }
+ title{align: center;}
+
+
+ .navbar {
+ text-align: center;
+ overflow: hidden;
+ background-color: #0xFF;
+ font-family: Avenir, Helvetica, sans-serif;
+ }
+
+ .navbar a {
+
+ display: inline-block;
+ list-style-type: none;
+ font-size: 22px;
+ color: black;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+ }
+
+
+
+ .navbar a:hover{
+ background-color: #b07272;
+ }
